@@ -16,10 +16,10 @@ Created insightful visualizations using libraries like Matplotlib and Seaborn to
 
 ## Key Skills Demonstrated:
 
-Python programming
-Data scraping
-Data cleaning and preprocessing
-Sentiment analysis
-Machine learning
-Data visualization
-Model evaluation
+Python programming <br />
+Data scraping <br />
+Data cleaning and preprocessing <br />
+Sentiment analysis <br />
+Machine learning <br />
+Data visualization <br />
+Model evaluation 
